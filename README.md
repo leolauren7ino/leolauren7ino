@@ -74,6 +74,11 @@ Sistema completo de gerenciamento de estacionamento com cadastro de veículos, c
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leolaurentino07@gmail.com)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight)
+
+---
 
 > *"Cada linha de código é um passo a mais na direção certa."*
 
