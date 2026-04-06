@@ -77,8 +77,6 @@ Sistema completo de gerenciamento de estacionamento com cadastro de veículos, c
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <div align="center">
 
 <a href="https://github.com/leolauren7ino">
