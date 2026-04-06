@@ -77,8 +77,10 @@ Sistema completo de gerenciamento de estacionamento com cadastro de veículos, c
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolauren7ino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolauren7ino&layout=compact&theme=tokyonight&hide_border=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leolauren7ino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leolauren7ino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leolauren7ino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
