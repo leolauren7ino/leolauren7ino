@@ -77,12 +77,9 @@ Sistema completo de gerenciamento de estacionamento com cadastro de veículos, c
 
 ## 📊 Estatísticas
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolauren7ino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolauren7ino&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
 ---
 
 > *"Cada linha de código é um passo a mais na direção certa."*
