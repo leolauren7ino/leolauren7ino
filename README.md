@@ -61,21 +61,21 @@
 
 ## 📂 Projetos em destaque
 
-### 🧊 FridgeAPI
-`Java` `Spring Boot` `JPA` `Hibernate` `H2`
-
-REST API para gerenciamento de alimentos e controle de estoque, construída com Spring Boot, JPA/Hibernate e banco H2 — praticando modelagem de dados e arquitetura de API no ecossistema Java.
-
-[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/FridgeAPI)
-
----
-
 ### 🛒 ProdutosAPI
 `C#` `ASP.NET Core` `Entity Framework Core` `JWT` `UiPath` `xUnit`
 
 API de gestão de produtos, categorias, clientes e pedidos, com relacionamentos relacionais completos (1:N, 1:N aninhado e N:N via tabela associativa), autenticação JWT, validação de regras de negócio (débito automático de estoque), testes automatizados e integrações reais com front-end e RPA (UiPath) consumindo os mesmos endpoints.
 
 [![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/ProdutosAPI)
+
+---
+
+### 🧊 FridgeAPI
+`Java` `Spring Boot` `JPA` `Hibernate` `H2`
+
+REST API para gerenciamento de alimentos e controle de estoque, construída com Spring Boot, JPA/Hibernate e banco H2 — praticando modelagem de dados e arquitetura de API no ecossistema Java.
+
+[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/FridgeAPI)
 
 ---
 
