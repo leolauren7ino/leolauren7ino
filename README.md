@@ -1,110 +1,96 @@
 <div align="center">
 
-# Leonardo Laurentino de Curcio
+# LEONARDO LAURENTINO DE CURCIO
 
-**Estudante de Sistemas de Informação | Estagiário de TI**
+### Estudante de Sistemas de Informação · Estagiário de TI
 
-*Do algoritmo ao sistema completo — construindo, testando e entendendo cada camada pelo caminho.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-de-curcio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leolaurentino07@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0091FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leolaurentino07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00C2CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-de-curcio)
+[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 🚀 Sobre mim
 
-Estou cursando **Sistemas de Informação** e atuando como **estagiário de TI**, onde trabalho com desenvolvimento de software, integrações e automação de processos em um ambiente corporativo real.
+| | | |
+|---|---|---|
+| 🎓 | **Formação** | Sistemas de Informação — FIAP *(em andamento)* |
+| 💼 | **Experiência** | Estágio em TI — Desenvolvimento, Integrações e Automação |
+| 🎯 | **Missão** | Consolidar base sólida em Back-end para atuação remota e internacional |
+| ⚙️ | **Stack principal** | C#/.NET · Java · SQL Server · JavaScript |
+| 🧭 | **Foco atual** | APIs REST, relacionamentos de banco de dados e automação (RPA) |
 
-Minha formação começou em **Java** — lógica, POO, estrutura de dados — e, no estágio, passei a atuar diretamente com **C#/.NET**, o que me levou a aprofundar por conta própria em APIs REST, bancos de dados relacionais e automação com RPA. Gosto de entender **por que** as coisas funcionam, não só copiar soluções prontas: quando travo num erro, prefiro investigar a causa a decorar a correção.
+<div align="center">
 
-Meu objetivo é construir uma base técnica sólida em desenvolvimento back-end para atuar, no futuro, de forma remota e internacional.
+*Do banco de dados à API, entendendo o fluxo completo — não só copiando o que funciona.*
 
----
-
-## 🧠 O que sei fazer hoje
-
-**Back-end & APIs**
-- Construção de APIs REST em **C#/.NET (ASP.NET Core)** e conceitos equivalentes em **Java**
-- Modelagem de relacionamentos relacionais: um-para-um, um-para-muitos e muitos-para-muitos (com tabela associativa)
-- **Entity Framework Core**: migrations, DbContext, DTOs de entrada/saída, resolução de ciclos de serialização
-- **Autenticação e autorização com JWT**, hash de senhas com BCrypt
-- **Testes automatizados** com xUnit (padrão Arrange-Act-Assert)
-
-**Automação & Integrações**
-- **UiPath**: consumo de APIs via HTTP Request, deserialização de JSON, loops aninhados sobre dados relacionais
-- Integração de front-end (JavaScript puro, `fetch`) com APIs próprias
-
-**Fundamentos**
-- Lógica de programação, programação estruturada e orientada a objetos (Java)
-- HTML, CSS, JavaScript
-- Banco de dados relacional (SQL Server, em aprofundamento em MySQL/NoSQL)
+</div>
 
 ---
 
-## 🚀 Stack
+## 🛠️ Tech Stack
 
-**Linguagens**
+| Back-end & Dados | Automação | Fundamentos | Terminal / IDEs |
+|---|---|---|---|
+| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
+| ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white) | | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![Entity Framework](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white) | | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | | | |
+| ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | | | |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-**Back-end & Dados**
+## 📚 Módulos de conhecimento
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Automação & Ferramentas**
-
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Em aprofundamento**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| Módulo | Status |
+|---|---|
+| Lógica de Programação | 🟢 `CONCLUÍDO` |
+| Programação Orientada a Objetos (Java) | 🟢 `CONCLUÍDO` |
+| Estrutura de Dados | 🟢 `CONCLUÍDO` |
+| C#/.NET & ASP.NET Core Web API | 🟡 `EM ANDAMENTO` |
+| Entity Framework Core (relacionamentos 1:N e N:N) | 🟡 `EM ANDAMENTO` |
+| Autenticação JWT & Testes (xUnit) | 🟡 `EM ANDAMENTO` |
+| Automação RPA (UiPath) | 🟡 `EM ANDAMENTO` |
+| SQL & Modelagem de Banco de Dados | 🟡 `EM ANDAMENTO` |
+| MySQL & NoSQL | ⚪ `EM BREVE` |
 
 ---
 
 ## 📂 Projetos em destaque
 
+### 🧊 FridgeAPI
+`Java` `Spring Boot` `JPA` `Hibernate` `H2`
+
+REST API para gerenciamento de alimentos e controle de estoque, construída com Spring Boot, JPA/Hibernate e banco H2 — praticando modelagem de dados e arquitetura de API no ecossistema Java.
+
+[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/FridgeAPI)
+
+---
+
 ### 🛒 ProdutosAPI
-**API REST em C#/.NET com relacionamentos complexos, autenticação e automação**
+`C#` `ASP.NET Core` `Entity Framework Core` `JWT` `UiPath` `xUnit`
 
-Sistema de gestão de produtos, categorias, clientes e pedidos, construído para praticar arquitetura de API do zero ao avançado:
+API de gestão de produtos, categorias, clientes e pedidos, com relacionamentos relacionais completos (1:N, 1:N aninhado e N:N via tabela associativa), autenticação JWT, validação de regras de negócio (débito automático de estoque), testes automatizados e integrações reais com front-end e RPA (UiPath) consumindo os mesmos endpoints.
 
-- Relacionamentos 1:N (Categoria/Produto), 1:N aninhado (Cliente/Endereço) e N:N com tabela associativa (Pedido/Produto via ItemPedido)
-- DTOs de entrada e saída, evitando ciclos de serialização e protegendo dados sensíveis (ex.: preço "congelado" no momento da venda)
-- Regra de negócio real: validação e débito automático de estoque numa única transação
-- Autenticação JWT com hash de senha (BCrypt) e proteção seletiva de rotas
-- Testes automatizados (xUnit) para as regras de negócio centrais
-- Consumida por três clientes diferentes: arquivo `.http`, front-end em JavaScript e robô UiPath
-
-**[🔗 Repositório](https://github.com/leolauren7ino/ProdutosAPI)**
+[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/ProdutosAPI)
 
 ---
 
 ### 🅿️ ParkEasy
-**Sistema de controle de estacionamento em Java**
+`Java` `POO`
 
-Cadastro de veículos, controle de entrada/saída, cálculo automático de tarifas e geração de receita total — meu primeiro projeto aplicando POO de ponta a ponta.
+Sistema de controle de estacionamento com cadastro de veículos, controle de entrada/saída, cálculo automático de tarifas e geração de receita total.
 
 *Concluído em 25/03/2025*
 
+[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/ParkEasy)
+
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -121,6 +107,6 @@ Cadastro de veículos, controle de entrada/saída, cálculo automático de tarif
 
 <div align="center">
 
-*"Não é sobre saber tudo, é sobre saber investigar o que ainda não sei."*
+*"Não é sobre saber tudo — é sobre saber investigar o que ainda não sei."*
 
 </div>
