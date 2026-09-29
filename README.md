@@ -79,14 +79,12 @@ REST API para gerenciamento de alimentos e controle de estoque, construída com 
 
 ---
 
-### 🅿️ ParkEasy
-`Java` `POO`
+### 🗂️ GestaoFuncionarios
+`C#` `ASP.NET Core` `ClosedXML` `QuestPDF` `jQuery`
 
-Sistema de controle de estacionamento com cadastro de veículos, controle de entrada/saída, cálculo automático de tarifas e geração de receita total.
+CRUD completo de funcionários com formulário único reutilizado para criar/editar, autocomplete de busca, grid paginada e exportação da listagem para Excel, PDF e JSON com download automático — incluindo tratamento de erro via status HTTP correto na API de relatórios, em vez de inspecionar o corpo da resposta.
 
-*Concluído em 25/03/2025*
-
-[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/ParkEasy)
+[![Access Repo](https://img.shields.io/badge/ACCESS_REPO-→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leolauren7ino/GestaoFuncionarios)
 
 ---
 
